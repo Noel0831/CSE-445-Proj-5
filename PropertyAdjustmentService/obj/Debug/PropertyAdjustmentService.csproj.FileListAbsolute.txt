@@ -1,0 +1,7 @@
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\bin\PropertyAdjustmentService.dll.config
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\bin\PropertyAdjustmentService.dll
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\bin\PropertyAdjustmentService.pdb
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\obj\Debug\PropertyAdjustmentService.csproj.AssemblyReference.cache
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\obj\Debug\PropertyAdjustmentService.csproj.CoreCompileInputs.cache
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\obj\Debug\PropertyAdjustmentService.dll
+C:\Users\Test\OneDrive\Documents\CSE 445+598 Distributed Soft Development\CSE 445-598 Project 3\PropertyAdjustmentService\obj\Debug\PropertyAdjustmentService.pdb
